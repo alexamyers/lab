@@ -150,14 +150,25 @@ If D: "The student is not doing very well."
 If F: "The student is failing."
 If the letter grade is not one of the above letters, console.log 'Not an eligible grade.'
 */
-switch (letterGrade) { // code is reading error of "A is not defined"
-  case A: console.log("The student is doing excellently.");
-  case B: console.log("The student is doing well.");
-  case C: console.log("The student is doing alright.");
-  case D: console.log("The student is not doing very well.");
-  case F: console.log("The student is failing");
-  default: console.log("Not an eligible grade.");
-}
+// switch (letterGrade) { 
+//   case 'A': 
+//   console.log("The student is doing excellently.")
+//   break;
+//   case 'B': 
+//   console.log("The student is doing well.")
+//   break;
+//   case 'C':
+//   console.log("The student is doing alright.")
+//   break;
+//   case 'D': 
+//   console.log("The student is not doing very well.")
+//   break;
+//   case 'F': 
+//   console.log("The student is failing")
+//   break;
+//   default: 
+//   console.log("Not an eligible grade.")
+// }
 
 
 ////////// PROBLEM 11 //////////
@@ -185,3 +196,11 @@ switch (letterGrade) { // code is reading error of "A is not defined"
 */
 
 //Code Here
+
+
+
+//questions
+
+//updating github via git
+
+//problem 10
